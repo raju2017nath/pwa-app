@@ -1,0 +1,13 @@
+.box {
+    background: #f8f9fa;
+    padding: 30px;
+    border-radius: 12px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    border: 2px solid #0d6efd;
+}
+
+.box:hover {
+    background: #e2e6ea;
+}
